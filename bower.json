@@ -1,0 +1,9 @@
+{ 
+    "name": "test-app",
+    "version": "1.0.0",
+    "description": "It's my test nodejs application",
+    "author": "ethsam.fr",
+    "dependencies": { 
+        "bootstrap": "4.*"
+    }
+}
