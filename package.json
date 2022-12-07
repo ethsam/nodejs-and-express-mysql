@@ -4,7 +4,7 @@
     "description": "It's my test nodejs application",
     "author": "ethsam.fr",
     "dependencies": {
-        "express": "^4.17.1",
+        "express": "^4.18.2",
         "express-flash": "0.0.2",
         "express-session": "^1.17.0",
         "express-validator": "^6.2.0",
